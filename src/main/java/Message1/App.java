@@ -6,6 +6,8 @@ package Message1;
   - Вывести сведения о сообщениях
 */
 
+// Проверка раюоты
+
 
 public class App {
 }
